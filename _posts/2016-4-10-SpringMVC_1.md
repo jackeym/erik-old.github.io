@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "SpringMVC学习笔记(1)——SpringMVC介绍"
+title:      "SpringMVC学习笔记——SpringMVC介绍"
 subtitle:   ""
 date:       2016-04-10 12:00:00
 author:     "one"
@@ -8,7 +8,7 @@ author:     "one"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 框架
+    - Spring
 ---
 
 # MVC架构模式

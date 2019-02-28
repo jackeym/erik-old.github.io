@@ -3,7 +3,7 @@ title: ONE Blog
 SEOTitle: ONE的博客 | ONE Blog
 header-img: img/post-bg-desk.jpg
 email: jackeyzhii@gmail.com
-description: "Every failure is leading towards success."
+description: "Talk is cheap. Show me the code."
 keyword: "ONE, ONE Blog, ONE的博客, ONE, --, iOS, Apple, iPhone"
 url: "http://jackeym.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/jackeym/jackeym.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "认真做技术"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,10 +19,10 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     one
-zhihu_username:     one
-github_username:    one
+zhihu_username:     #
+github_username:    jackeym
 #facebook_username:  one
-jianshu_username:   one
+jianshu_username:   #
 #twitter_username:   one
 
 

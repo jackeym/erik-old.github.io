@@ -2,7 +2,7 @@
 layout:     post
 title:      "SpringMVC学习笔记(1)——SpringMVC介绍"
 subtitle:   ""
-date:       2017-04-10 12:00:00
+date:       2016-04-10 12:00:00
 author:     "one"
 #header-img: "img/post-bg-nextgen-web-pwa.jpg"
 header-mask: 0.3

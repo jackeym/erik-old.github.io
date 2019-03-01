@@ -102,10 +102,10 @@ friends: [
         title: "简书·ONE",
         href: "#"
     },{
-        title: "Stack Overflow",
-        href: "https://stackoverflow.com/"
-    },{
         title: "Google",
         href: "https://www.google.com"
+    },{
+        title: "Stack Overflow",
+        href: "https://stackoverflow.com/"
     }
 ]

@@ -2,12 +2,12 @@
 title: ONE Blog
 SEOTitle: ONE的博客 | ONE Blog
 header-img: img/post-bg-desk.jpg
-email: jackeyzhii@gmail.com
+email: erik.zh@foxmail.com
 description: "Talk is cheap. Show me the code."
 keyword: "ONE, ONE Blog, ONE的博客, ONE, --, Java"
-url: "http://jackeym.github.io"          # your host, for absolute URL
+url: "http://erik-zh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/jackeym/jackeym.github.io.git" # you code repository
+github_repo: "https://github.com/erik-zh/erik-zh.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
